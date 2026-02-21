@@ -1,0 +1,90 @@
+@font-face {
+  font-family: Fredoka;
+  src: url(../font/Fredoka.ttf);
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+  margin: 0;
+  background-color: #08031A;
+  background-size: 65px;
+  color: #fceaff;
+  background-image: var(--body-bg-image);
+  font-family: Fredoka;
+}
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 2px solid #001496;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #f2f2f2;
+  color: black;
+}
+
+.clock{
+    text-align: center;
+}
+
+.break{
+  background-color: #2ff6f6;
+  color: black;
+}
+
+.verde{
+  background-color: greenyellow;
+  color: #08031A;
+}
+
+.verdeoscu{
+  background-color: green;
+  color: #fceaff;
+}
+
+.math{
+  background-color: #f2473bd0;
+}
+
+.lunch{
+  background-color: #e3f547;
+  color: #08031A;
+}
+
+.homework{
+  background-color: #8065ea;
+}
+
+.myself{
+  background-color: #f05ec4cb;
+}
+
+.hardware{
+  background-color: royalblue;
+}
+
+.requerim{
+  background-color: #f8a558;
+  color: #08031A;
+}
+
+.hello{
+  background-color: rgb(36, 36, 255);
+}
+
+.data{
+  background-color: pink;
+  color: #08031A;
+}
+
+.omg{
+  background-color: gold;
+  color: #08031A;
+}
